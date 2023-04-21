@@ -1,0 +1,12 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/vivek/Documents/Workspace/MenuApp/src/app/layout.tsx": [
+      "/Users/vivek/Documents/Workspace/MenuApp/src/app/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/vivek/Documents/Workspace/MenuApp/src/app/page": [
+      "/Users/vivek/Documents/Workspace/MenuApp/src/app/globals.css"
+    ]
+  }
+}
